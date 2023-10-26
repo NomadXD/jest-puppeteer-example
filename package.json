@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "build": "npm install",
-    "test": "jest"
+    "test": "npx jest"
   },
   "dependencies": {
     "chalk": "^2.4.2",
